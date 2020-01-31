@@ -3,7 +3,7 @@
 # iOS Display Date with Date Picker
 Display Date with Date Picker App is written in Swift language for iOS.
 
-![iOS Display Alert](https://user-images.githubusercontent.com/45048950/73188215-7a6dc680-415d-11ea-8fe7-b73e77ac692d.gif)
+
 
 ### Built With :
 
